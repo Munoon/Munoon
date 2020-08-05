@@ -3,7 +3,7 @@
 You may contact me in [Telegram](https://t.me/munoon).
 
 # 📚 Knowledge
-Java, JavaScript, [Spring Boot](https://spring.io/), [Spring Cloud](https://spring.io/projects/spring-cloud), [ReactJS](https://reactjs.org/)... and lots of more, but these - the most!
+Java, JavaScript, Kotlin, [Spring Boot](https://spring.io/), [Spring Cloud](https://spring.io/projects/spring-cloud), [ReactJS](https://reactjs.org/)... and lots of more, but these - the most!
 
 # 💎 Projects
 1. [Grand School Bank](https://github.com/Grand-School) - big banking project for private school "Grand". Including server (backend on Java and [Spring Boot](https://spring.io/), frontend on vanila JavaScript), Bank Descktop Application (on [ElectronJS](https://www.electronjs.org/)) and Mobile Application (on [React Native](https://reactnative.dev/)).
