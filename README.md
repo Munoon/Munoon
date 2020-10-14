@@ -10,4 +10,4 @@ Java, JavaScript, Kotlin, [Spring Boot](https://spring.io/), [Spring Cloud](http
 2. [Cloud Movies List](https://github.com/Munoon/Cloud-Movies-List) - educational project that includes all modern cloud programming technologies. Service provides movie list with ability for users to add films to favorites or watch later and mark them.
 
 # ✉️ Articles
-1. [🇷🇺 Подтверждение входа с помощью Telegram на Spring Boot](https://habr.com/ru/post/501728/) - how to make 2FA using Telegram bot and Spring Web Security.
+1. [🇷🇺  Подтверждение входа с помощью Telegram на Spring Boot](https://habr.com/ru/post/501728/) - how to make 2FA using Telegram bot and Spring Web Security.
